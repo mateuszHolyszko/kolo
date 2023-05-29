@@ -1,0 +1,11 @@
+commit be5042fb0d792f12e4b629242221234b10a4f6af
+Author: CyprianSchiffer <cyprian.schiffer123@gmail.com>
+Date:   Mon May 29 12:00:55 2023 +0200
+
+    ignorowanie .doc
+
+commit daa97d6d96ff9f3bbf713cd7de7a4eb184899fd2
+Author: CyprianSchiffer <cyprian.schiffer123@gmail.com>
+Date:   Mon May 29 11:56:14 2023 +0200
+
+    ryba
